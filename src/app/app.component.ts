@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { products } from '../products';
 
 @Component({
   selector: 'app-root',
